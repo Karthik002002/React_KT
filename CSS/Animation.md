@@ -1,4 +1,3 @@
-
 # 🎞️ CSS Animation Guide
 
 CSS Animations allow elements to transition between styles over time, adding dynamic and interactive effects without JavaScript.
@@ -8,6 +7,7 @@ CSS Animations allow elements to transition between styles over time, adding dyn
 ## 🔧 Basics
 
 ### 1. `transition` (for simple state changes)
+
 Used for hover, focus, or active changes.
 
 ```css
